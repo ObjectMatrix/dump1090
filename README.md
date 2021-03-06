@@ -1,6 +1,7 @@
-<hr />
-Air Traffic with SDR. 
-<ht />
+
+# Air Traffic with SDR. 
+
+
 ### open window1 cli: 
 cd ~/dump1090 
 
@@ -12,8 +13,9 @@ cd ~/dump1090/public_html
   
 python3 -m http.server 8080
 
+# NOAA with SDR
 <hr />
-## NOAA with SDR
+
 https://jekhokie.github.io/noaa/satellite/rf/antenna/sdr/2019/05/31/noaa-satellite-imagery-sdr.html
 
 <hr />
