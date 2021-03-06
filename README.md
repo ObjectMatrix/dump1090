@@ -5,7 +5,8 @@ cd ~/dump1090
 ./dump1090 --interactive --net
 
 ### open window2 cli: 
-cd ~/dump1090/public_html. 
+cd ~/dump1090/public_html
+  
 python3 -m http.server 8080
 
 
