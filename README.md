@@ -1,3 +1,15 @@
+### open window1 cli: 
+cd ~/dump1090 
+
+### and execute   
+./dump1090 --interactive --net
+
+### open window2 cli: 
+cd ~/dump1090/public_html
+python3 -m http.server 8080
+
+
+
 Dump1090 README
 ===
 
